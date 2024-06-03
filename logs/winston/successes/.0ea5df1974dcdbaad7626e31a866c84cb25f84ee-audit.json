@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/.0ea5df1974dcdbaad7626e31a866c84cb25f84ee-audit.json",
+    "files": [
+        {
+            "date": 1717324343081,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-02-06-16-success.log",
+            "hash": "9ac9af5905d576fab1375f9210871e48eb1eae597be490a6f33d4f4287f76c7c"
+        },
+        {
+            "date": 1717338543283,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-02-06-20-success.log",
+            "hash": "8f358395951c1b83e6964ae88fe8f1adfb096c1ea91d58dbe070241a1b15de4e"
+        },
+        {
+            "date": 1717355256016,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-03-06-01-success.log",
+            "hash": "2805421cf66a32eb5beacb7e58c966c3991c73334f8df3f1dbf2191521c87a49"
+        },
+        {
+            "date": 1717425628031,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-03-06-20-success.log",
+            "hash": "a56dc6eee86c457c3cbef9912c688b1cacd10301111265d07cd3c7e61e9953fb"
+        },
+        {
+            "date": 1717433410416,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-03-06-22-success.log",
+            "hash": "000235b3353fbc5c5cc0a694f4bdf6e89075fdbb7da5ffff0b0d49465dbf4277"
+        },
+        {
+            "date": 1717434271085,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-03-06-23-success.log",
+            "hash": "950a0c104f91f0426ac4280aab0cc8d9089a09b95308a69c164e114c7e8be93b"
+        },
+        {
+            "date": 1717437797336,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-00-success.log",
+            "hash": "e1e6aca9001e91f9f6aaaef964878c9391e789eeb440415ab275179615180465"
+        }
+    ],
+    "hashType": "sha256"
+}
