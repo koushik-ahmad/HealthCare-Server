@@ -6,31 +6,6 @@
     "auditLog": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/.632e322855b9e68abdbc8bdd064cf0fa7ecea36d-audit.json",
     "files": [
         {
-            "date": 1717324343083,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-02-06-16-error.log",
-            "hash": "ad255aa41828cea72ce3cc0e34976e59cd47cee682e7345e54272e5b5bc8b6e4"
-        },
-        {
-            "date": 1717326000258,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-02-06-17-error.log",
-            "hash": "abb27b6754341ac5cc08f067107655e503c11357d90fdeb4a596a949c35b93d9"
-        },
-        {
-            "date": 1717329600111,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-02-06-18-error.log",
-            "hash": "eb2addd14218388f038d947fb6a2813ab27519602a8c18136f862e552c67b1d7"
-        },
-        {
-            "date": 1717333200780,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-02-06-19-error.log",
-            "hash": "50f6c70f3ead393873949e86a00090aca156b300821794371b1d4440341f01a3"
-        },
-        {
-            "date": 1717336800094,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-02-06-20-error.log",
-            "hash": "1af732ae31a7852e567d8708118983c069f0cdee132897cc060c3f1b994a3df3"
-        },
-        {
             "date": 1717355256022,
             "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-03-06-01-error.log",
             "hash": "e3d835517ca80a1cb1c3b8a53de57e01baa1634a4c9bbbc4197cdc2f9ba0f372"
@@ -54,6 +29,61 @@
             "date": 1717437712251,
             "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-00-error.log",
             "hash": "798712301459312eacbf37a1bcf62a9b8fff1fd45271902f75b4a6ec671f0f4b"
+        },
+        {
+            "date": 1717471189963,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-09-error.log",
+            "hash": "6c4031254d6a9b6639be931ff33f1956280e8dd93ca2f6567f1d40dfcd09ec49"
+        },
+        {
+            "date": 1717474101442,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-10-error.log",
+            "hash": "6f5974b503bd03bfb1a91ec9894b156bcb66d4e240eb0c08ecb13ede21aa4b26"
+        },
+        {
+            "date": 1717478282672,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-11-error.log",
+            "hash": "e2f1335da79b1e2d1b0b16af2cba4b4698639d4d2e2ad57013d5ec85344b9620"
+        },
+        {
+            "date": 1717505189332,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-18-error.log",
+            "hash": "be11522b29f6c9dc16e366efa33e39264204bf59a28791159b85618256b3fb30"
+        },
+        {
+            "date": 1717506097211,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-19-error.log",
+            "hash": "764e15a10852e94befe8de0402f80d23440a6c024ab69d66d073dfb5a97d9d8d"
+        },
+        {
+            "date": 1717513338610,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-21-error.log",
+            "hash": "61527f61e32b7563c133e9ac20c9c9772af14da500f010fbfeb5d912c484db13"
+        },
+        {
+            "date": 1717517566844,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-04-06-22-error.log",
+            "hash": "00cfa458052ee2f39b737fe0b32720116a6faddc303aacd1e065e055a7e500ab"
+        },
+        {
+            "date": 1717562430404,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-05-06-10-error.log",
+            "hash": "19e21987e2ffac35b08cb5d95aae80e0c6b24564d931e840136851eac1113ce0"
+        },
+        {
+            "date": 1717565601194,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-05-06-11-error.log",
+            "hash": "5c63d02b26b99b19bc50600fede60c54f6484529e8b4266bf59676bf574a1495"
+        },
+        {
+            "date": 1718525990865,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-16-06-14-error.log",
+            "hash": "57e6a512851119493f31d2c31ea7d7e34fad45ac0c88d18c75407b13f26375f3"
+        },
+        {
+            "date": 1718554744691,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/errors/phu-2024-16-06-22-error.log",
+            "hash": "44f4a94c37cafd85a4e35f3297c91719f11cdf2dc181f61c8d259da24834740f"
         }
     ],
     "hashType": "sha256"

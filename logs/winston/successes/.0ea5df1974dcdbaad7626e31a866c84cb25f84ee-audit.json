@@ -6,16 +6,6 @@
     "auditLog": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/.0ea5df1974dcdbaad7626e31a866c84cb25f84ee-audit.json",
     "files": [
         {
-            "date": 1717324343081,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-02-06-16-success.log",
-            "hash": "9ac9af5905d576fab1375f9210871e48eb1eae597be490a6f33d4f4287f76c7c"
-        },
-        {
-            "date": 1717338543283,
-            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-02-06-20-success.log",
-            "hash": "8f358395951c1b83e6964ae88fe8f1adfb096c1ea91d58dbe070241a1b15de4e"
-        },
-        {
             "date": 1717355256016,
             "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-03-06-01-success.log",
             "hash": "2805421cf66a32eb5beacb7e58c966c3991c73334f8df3f1dbf2191521c87a49"
@@ -39,6 +29,61 @@
             "date": 1717437797336,
             "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-00-success.log",
             "hash": "e1e6aca9001e91f9f6aaaef964878c9391e789eeb440415ab275179615180465"
+        },
+        {
+            "date": 1717471189961,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-09-success.log",
+            "hash": "3d45613ee888e9b469cc0fbfcf32316f5823fc32687bc3d7f71b97e1c6c20fd3"
+        },
+        {
+            "date": 1717474124020,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-10-success.log",
+            "hash": "7cbe63549a44cd1dbe7fd466da00c01dc99e21bf991c6b57599681d63302ee84"
+        },
+        {
+            "date": 1717478282670,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-11-success.log",
+            "hash": "2837627e315d0d4560becbf0f3ef7e42b466b7d4100b63ca998e8e04e370af7c"
+        },
+        {
+            "date": 1717505189330,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-18-success.log",
+            "hash": "6752f09f318fc68eca408138feb100e0d8c7a2784ba8384ae8c1e9fea2b7b779"
+        },
+        {
+            "date": 1717506097209,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-19-success.log",
+            "hash": "12faa195058c6867b0c9dc4363d27a585ed611e26afd08d003a40aace4c8b3c0"
+        },
+        {
+            "date": 1717513338608,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-21-success.log",
+            "hash": "d89f9f39f2e556399501e20d3565e9d12346101d4685190d31ef46f8e8e16518"
+        },
+        {
+            "date": 1717517566841,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-04-06-22-success.log",
+            "hash": "8c0c192c21230c43e1d483c8f2abded06456512811ebf80e4aab9b66f2b6317c"
+        },
+        {
+            "date": 1717562430398,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-05-06-10-success.log",
+            "hash": "49a711a15b2020535358bab93ea9dc377fa920e91a2acb2924a2a7388b5d71e3"
+        },
+        {
+            "date": 1717565601183,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-05-06-11-success.log",
+            "hash": "d61e22075f4232129bff6d56b7057fd5029c8e886e98a048b2b81fb4a709b871"
+        },
+        {
+            "date": 1718525990862,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-16-06-14-success.log",
+            "hash": "c66fbdb0f15544be35edfa88864bb5ebff781d3373b781f69c398bb70fed15a6"
+        },
+        {
+            "date": 1718554744688,
+            "name": "/home/spiderman/Nextjs-projects/HealthCare-Server/logs/winston/successes/phu-2024-16-06-22-success.log",
+            "hash": "1562942f8a0033a8612ba3d718b890b0a627ee6ac235c72aa7931d9a5f2a40f3"
         }
     ],
     "hashType": "sha256"
