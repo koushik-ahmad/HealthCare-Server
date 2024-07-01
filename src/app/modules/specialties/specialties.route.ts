@@ -19,6 +19,7 @@ router.post(
     return SpecialtiesController.insertIntoDB(req, res, next);
   },
 );
+
 router.delete(
   '/:id',
   auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),
